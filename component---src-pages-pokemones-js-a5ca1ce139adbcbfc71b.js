@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[762],{5530:function(e,t,a){"use strict";a.r(t);var n=a(7294),r=function(e){var t=e.pokemon;return n.createElement("div",{className:"card"},t.name)};t.default=function(e){return e.data.pokemonsdata.pokemons.map((function(e){return n.createElement(r,{pokemon:e})}))}}}]);
+//# sourceMappingURL=component---src-pages-pokemones-js-a5ca1ce139adbcbfc71b.js.map
